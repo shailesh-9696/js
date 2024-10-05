@@ -1,0 +1,19 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "this is namaste react from shailesh Pinate",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "shailesh pinate",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
